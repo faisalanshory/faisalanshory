@@ -1,6 +1,6 @@
 ### Hi There!
 
-My name is Faisal and I'm an undergraduate student of Geodesy and Geomatics Engineering at Bandung Institute of Technology. My hobbies are playing video games and learning some new skills such as programming and image editing. Check out some of my Portfolio <a href="isal.now.sh" target="_blank">here</a>.
+My name is Faisal and I'm an undergraduate student of Geodesy and Geomatics Engineering at Bandung Institute of Technology. My hobbies are playing video games and learning some new skills such as programming and image editing. Check out some of my Portfolio <a href="https://isal.now.sh/" target="_blank">here</a>.
 
 ### Programming Languages and Frameworks
 
