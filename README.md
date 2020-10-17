@@ -6,7 +6,7 @@ My name is Faisal and I'm an undergraduate student of Geodesy and Geomatics Engi
 
 - i know and sometime use
 
- [<img src="https://qph.fs.quoracdn.net/main-qimg-28cadbd02699c25a88e5c78d73c7babc" alt="go logo" width="70">](https://www.python.org/)   [<img src="https://pages.uncc.edu/techne/wp-content/uploads/sites/93/2013/12/matlab-logo.jpg" width="70">](https://www.mathworks.com/)  | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1024px-HTML5_Badge.svg.png" width="70">  
+ [<img src="https://qph.fs.quoracdn.net/main-qimg-28cadbd02699c25a88e5c78d73c7babc" alt="go logo" width="70">](https://www.python.org/)   [<img src="https://pages.uncc.edu/techne/wp-content/uploads/sites/93/2013/12/matlab-logo.jpg" width="70">](https://www.mathworks.com/)   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1024px-HTML5_Badge.svg.png" width="70">  
 
 - currently i am learning abt
 
