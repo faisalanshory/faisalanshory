@@ -21,7 +21,7 @@ My name is Faisal and I'm an undergraduate student of Geodesy and Geomatics Engi
 <a href="https://www.linkedin.com/in/faisalanshory/">
     <img alt="Muhammad Faisal Anshory | Linkedin" width="50px" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png" />
 </a>
-<a href="https://www.instagram.com/faisalanshoryy/">
+<a href="https://www.instagram.com/ahmadanshoryy/">
     <img alt="Muhammad Faisal Anshory | Instagram" width="50px" src="https://www.quicksocialmedia.co.uk/cms/instagram-master.png" />
 </a>
 <a href="faisalanshory.m@gmail.com">
